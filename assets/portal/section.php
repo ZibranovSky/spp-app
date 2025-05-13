@@ -29,7 +29,7 @@ class login_app
 }
 
 $pro = new login_app();
-$pro->koneksi = mysqli_connect('localhost', 'root', '', 'spp_zibran');
+$pro->koneksi = mysqli_connect('localhost', 'root', '', 'spp_wildan');
 
 
 

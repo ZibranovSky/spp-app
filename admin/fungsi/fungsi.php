@@ -1,7 +1,7 @@
 <?php 
 
 // koneksi
-$koneksi = mysqli_connect('localhost','root','','spp_zibran');
+$koneksi = mysqli_connect('localhost','root','','spp_wildan');
 
 
 // ADMIN SECTION
